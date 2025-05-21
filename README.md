@@ -1,5 +1,7 @@
-# smt-2-hard-mode-patch
+# SMT II Hard Mode Patch
 This is a comprehensive rehash of Shin Megami Tensei II (JP-SNES Version) to make it more like its modern counterparts in regards to its difficulty and challenge. Most SMT2 players feel that the bosses in the original are complete jokes, with some exceptions like Lucifer and YHVH. This mod will completely break the limits and maybe even you.
+
+The mod has been released complete in its initial release (1.0) in regards to all demons and bosses' stats, movesets, intelligence, resistances and level modifications, but there is more new exciting stuff to come in future versions while our team masters more areas of the game's mechanics and code. Look forward to seeing Stephen in game for some extremely important advice (this is also still being implemented).
 
 # Requirements to make it run successfully
 - A Shin Megami Tensei II Japanese ROM
