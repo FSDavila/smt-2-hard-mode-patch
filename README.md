@@ -10,6 +10,9 @@ The mod has been released complete in its initial release (1.0) in regards to al
 - Appliance of SMT2-QOL-Patch (smt2e_QoL.ips) - https://github.com/AFriendlyIrin/SMT2-QOL-Patch/blob/main/smt2e_QoL.ips
 - Finally, the appliance of "Shin Megami Tensei II (Japan) - Hard Mode 1.0 - By FSDavila.ips"
 
+# Youtube Playlist
+- Complete Hard Mode Boss Battle Playlist: https://www.youtube.com/watch?v=k7BJyT3k-E0&list=PL7qCJEcOchBsGzIo9gQUDB6eF0aEJuKbp&index=2
+
 # SMT II Hard Mode Gallery:
 - ![image](https://github.com/user-attachments/assets/4c5118b1-1152-4610-aaa0-c607caf50df9)
 
